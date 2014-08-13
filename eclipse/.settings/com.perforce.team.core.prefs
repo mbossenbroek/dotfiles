@@ -1,0 +1,2 @@
+com.perforce.team.core.p4java.P4_CONNECTIONS=P4PORT perforce\\c1666 P4CLIENT mbossenbroek_4 P4USER mbossenbroek P4CHARSET none SAVEPASS false OFFLINE false 
+eclipse.preferences.version=1

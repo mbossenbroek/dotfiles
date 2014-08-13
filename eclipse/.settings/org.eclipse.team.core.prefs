@@ -1,0 +1,6 @@
+changeSets/Perforce\ synchronizations/Default\ Change/changelist=0
+changeSets/Perforce\ synchronizations/Default\ Change/connection=P4PORT perforce\:1666 P4CLIENT mbossenbroek_4 P4USER mbossenbroek P4CHARSET none SAVEPASS false OFFLINE false 
+changeSets/Perforce\ synchronizations/Default\ Change/resources=/learning-tools/src/com/netflix/learning/algorithm/cluster/SocialLikesClusterAssigner.java\n/learning-tools/src/com/netflix/learning/tools/features/FeatureManager.java\n
+changeSets/Perforce\ synchronizations/Default\ Change/title=Default Change
+changeSets/Perforce\ synchronizations/Default\ Change/userCreated=true
+eclipse.preferences.version=1

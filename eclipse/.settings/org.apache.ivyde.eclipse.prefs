@@ -1,0 +1,8 @@
+autoResolve.change=false
+eclipse.preferences.version=1
+ivy_conf_path=file\:/Users/mbossenbroek/src/depot/Tools/build/ivysettings.xml
+order.alphabetical=true
+resolveInWorkspace=true
+resolveOnStartup=0
+retrievedClasspath.pattern=lib/[type]s/[artifact]-[revision].[ext]
+retrievedClasspath.types=*
