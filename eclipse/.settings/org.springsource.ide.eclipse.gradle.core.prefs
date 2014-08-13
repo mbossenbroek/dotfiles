@@ -5,4 +5,4 @@ org.springsource.ide.eclipse.gradle.core.preferences.GradlePreferences.AUTO_REFR
 org.springsource.ide.eclipse.gradle.core.preferences.GradlePreferences.DISABLE_UNDERLINING=true
 org.springsource.ide.eclipse.gradle.core.preferences.GradlePreferences.EXPORT_DEPENDENCIES=true
 org.springsource.ide.eclipse.gradle.core.preferences.GradlePreferences.WTP_EXCLUDE=servlet-api-.*\\\\.jar\rjavax.servlet-api-.*\\\\.jar\rjsp-api-.*\\\\.jar\rjavax.servlet.*\\\\.jar;
-org.springsource.ide.eclipse.gradle.ui.wizards.GradleImportWizardPageOne.RF_HIST=/Users/mbossenbroek/src/indigena;/Users/mbossenbroek/src/hyperion;/Users/mbossenbroek/src/pigpen;/Users/mbossenbroek/src/pigpen-netflix;/Users/mbossenbroek/src/social-algo/social-scripts;
+org.springsource.ide.eclipse.gradle.ui.wizards.GradleImportWizardPageOne.RF_HIST=/Users/mbossenbroek/src/indigena;/Users/mbossenbroek/src/hyperion;/Users/mbossenbroek/src/pigpen;/Users/mbossenbroek/src/pigpen-netflix;/Users/mbossenbroek/src/social-algo/social-scripts;/Users/mbossenbroek/src/dagobah;
